@@ -1,7 +1,7 @@
 // Type vs Interface
 
 
-// For primitive types, we can only make use of type keyword to define out custom type
+// For primitive types, we can only make use of type keyword to define our custom types
 type text = string;
 
 
