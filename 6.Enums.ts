@@ -1,7 +1,7 @@
 /**
  * Enums or Enumeration
  * They are named constant. When we there can be only fixed set of values possible we use enums
- * 
+ * enums can have number or string mapping
  * Ticket status ["Initialised", "cancelled", "resolved", "pending"]
  * ti.status == "resolved"
  */
