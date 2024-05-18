@@ -28,3 +28,11 @@ res.address = "XYZ"; // not allowed
  * marks: 99
  * }
  */
+
+// To make it more convient to define type. We can provide alias
+type Details = {name: string, marks: number, address? : string};
+
+const res2: Details = {
+	name: "Abhishek",
+	marks: 98
+}
